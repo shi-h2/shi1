@@ -1,0 +1,129 @@
+*{
+    margin:0 ;
+    padding:0 ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Caveat:wght@400..700&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Doto:wght@100..900&family=Forum&family=Great+Vibes&family=Klee+One&family=Marck+Script&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=PT+Sans+Narrow:wght@400;700&family=Pacifico&family=Play:wght@400;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Press+Start+2P&family=Rubik+Bubbles&family=Sofia+Sans+Extra+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap');
+.logo{
+    margin-left: 95px;
+    margin-top:87px ;  
+   
+}
+
+.li{
+    display: flex;
+    justify-content: space-between;
+     list-style: none; 
+    color: #ffffff;
+    margin-top:94px ;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;   
+    align-items: center;
+  
+}
+nav{
+    width:50% ;
+}
+.main{
+    text-align: center;
+    margin-top: 30px;
+    padding: 40px;
+
+}
+.div{
+    
+    display: flex;
+    justify-content: space-between; 
+ 
+  
+   
+}
+.img{
+    background-image: url(Mask\ Group.jpg);
+   
+     background-size: cover;
+     width: 1920px;
+     height: 1000px;
+}
+h1{
+    color: #ffffff;
+   font-weight:400 ;
+    font-size:120px ;
+    font-family: "Rubik Bubbles", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 90px; 
+  
+}
+.body{
+    width: 36px; 
+    height: 56px; 
+    margin-top:157px ;
+}
+p{
+    margin-left: 270px;
+    color: #ffffff;
+    margin-top:94px ;
+    margin-right:87px ;
+}
+
+.ceck{
+    margin-top: 2px;
+}
+.popkorn{
+    margin-top:41px ;
+}
+.one{
+    background-color:rgba(59, 24, 30, 1);
+    background-image:url(каталог\ услуг.png)
+   
+    
+}
+.one{
+    background-repeat: no-repeat; 
+    background-position:140px 232px; 
+    color: #ffffff;
+    text-align: center;
+   padding-top:185px ;
+  margin-bottom: -90px;
+}
+.br{
+   width: 100%; 
+   border-bottom:25px rgba(59, 24, 30, 1) solid;
+   margin-bottom: -5px;
+
+}
+ img{
+    display: block;
+ }
+.n{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  margin-top: 80px;
+  display:   inline-block
+}
+.c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  margin-top: 22px;
+  display:   inline-block
+}
+.g{
+    margin-top: 74px;
+    margin-left: 205px;
+
+}
+.e{
+    margin-left: 205px;
+    margin-top: 54px;   
+}
+.r{
+    display: flex;
+    justify-content: center;
+    display: inline-block ;
+ 
+}
